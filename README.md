@@ -1,2 +1,2 @@
 # Tangente_da_Soma
- Código da animação postado no meu Instagram.
+ Código da animação postada no meu Instagram.
